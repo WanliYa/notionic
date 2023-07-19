@@ -69,8 +69,8 @@ const BLOG = {
     // support provider: utterances, supacomments
     provider: '', // leave it empty if you don't need any comment plugin
     supaCommentsConfig: {
-      supabaseUrl: '’, // The url of your Supabase instance
-      supabaseAnonKey: '’ // The anonymous key of your Supabase instance
+      supabaseUrl: '', // The url of your Supabase instance
+      supabaseAnonKey: '' // The anonymous key of your Supabase instance
     },
     utterancesConfig: {
       repo: ''
